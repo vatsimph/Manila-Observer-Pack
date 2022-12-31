@@ -1,5 +1,5 @@
 # Manila Observer Pack
-This package contains the official sector files design for observers at VATSIM Philippines.
+This package contains the official sector files design for observers at Philippines vACC.
 
 ## Installation
 You may access the full instruction on how can you install the package by visiting the [User's Manual](https://github.com/vatsimph/Manila-Observer-Pack/raw/main/z_Installation%20Guide.pdf).
