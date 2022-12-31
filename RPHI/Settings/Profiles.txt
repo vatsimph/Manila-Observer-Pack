@@ -1,0 +1,5 @@
+PROFILE
+PROFILE:INITIALS_OBS:150:3
+ATIS2:Manila Observer
+ATIS3:Charts available at vats.im/rphicharts | Philippines vACC vatphil.com 
+END

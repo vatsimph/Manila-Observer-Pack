@@ -1,0 +1,274 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\MIGUE\OneDrive\Desktop\Manila Observer Pack\RPHI-Release.sct
+SECTORTITLE:RPHI-Release.sct
+Airports:RPLL:name
+Airports:RPLL:symbol
+ARTCC boundary:MRVA RPLL:
+ARTCC low boundary:RPLL Manila TMA:
+Free Text:RPLL BAYS-GroundLayout\07:freetext
+Free Text:RPLL BAYS-GroundLayout\1:freetext
+Free Text:RPLL BAYS-GroundLayout\1:freetext
+Free Text:RPLL BAYS-GroundLayout\10:freetext
+Free Text:RPLL BAYS-GroundLayout\10:freetext
+Free Text:RPLL BAYS-GroundLayout\101:freetext
+Free Text:RPLL BAYS-GroundLayout\102:freetext
+Free Text:RPLL BAYS-GroundLayout\103:freetext
+Free Text:RPLL BAYS-GroundLayout\104:freetext
+Free Text:RPLL BAYS-GroundLayout\105:freetext
+Free Text:RPLL BAYS-GroundLayout\106:freetext
+Free Text:RPLL BAYS-GroundLayout\107:freetext
+Free Text:RPLL BAYS-GroundLayout\108:freetext
+Free Text:RPLL BAYS-GroundLayout\109:freetext
+Free Text:RPLL BAYS-GroundLayout\11:freetext
+Free Text:RPLL BAYS-GroundLayout\11:freetext
+Free Text:RPLL BAYS-GroundLayout\110:freetext
+Free Text:RPLL BAYS-GroundLayout\111:freetext
+Free Text:RPLL BAYS-GroundLayout\112:freetext
+Free Text:RPLL BAYS-GroundLayout\113:freetext
+Free Text:RPLL BAYS-GroundLayout\114:freetext
+Free Text:RPLL BAYS-GroundLayout\115:freetext
+Free Text:RPLL BAYS-GroundLayout\116:freetext
+Free Text:RPLL BAYS-GroundLayout\117:freetext
+Free Text:RPLL BAYS-GroundLayout\118:freetext
+Free Text:RPLL BAYS-GroundLayout\119:freetext
+Free Text:RPLL BAYS-GroundLayout\12:freetext
+Free Text:RPLL BAYS-GroundLayout\120:freetext
+Free Text:RPLL BAYS-GroundLayout\121:freetext
+Free Text:RPLL BAYS-GroundLayout\122:freetext
+Free Text:RPLL BAYS-GroundLayout\123:freetext
+Free Text:RPLL BAYS-GroundLayout\124:freetext
+Free Text:RPLL BAYS-GroundLayout\125:freetext
+Free Text:RPLL BAYS-GroundLayout\126:freetext
+Free Text:RPLL BAYS-GroundLayout\127:freetext
+Free Text:RPLL BAYS-GroundLayout\128:freetext
+Free Text:RPLL BAYS-GroundLayout\14:freetext
+Free Text:RPLL BAYS-GroundLayout\15:freetext
+Free Text:RPLL BAYS-GroundLayout\16:freetext
+Free Text:RPLL BAYS-GroundLayout\2:freetext
+Free Text:RPLL BAYS-GroundLayout\2:freetext
+Free Text:RPLL BAYS-GroundLayout\20:freetext
+Free Text:RPLL BAYS-GroundLayout\21:freetext
+Free Text:RPLL BAYS-GroundLayout\22:freetext
+Free Text:RPLL BAYS-GroundLayout\23:freetext
+Free Text:RPLL BAYS-GroundLayout\24:freetext
+Free Text:RPLL BAYS-GroundLayout\25:freetext
+Free Text:RPLL BAYS-GroundLayout\25:freetext
+Free Text:RPLL BAYS-GroundLayout\26:freetext
+Free Text:RPLL BAYS-GroundLayout\27:freetext
+Free Text:RPLL BAYS-GroundLayout\28:freetext
+Free Text:RPLL BAYS-GroundLayout\3:freetext
+Free Text:RPLL BAYS-GroundLayout\3:freetext
+Free Text:RPLL BAYS-GroundLayout\30:freetext
+Free Text:RPLL BAYS-GroundLayout\32:freetext
+Free Text:RPLL BAYS-GroundLayout\33:freetext
+Free Text:RPLL BAYS-GroundLayout\34:freetext
+Free Text:RPLL BAYS-GroundLayout\35:freetext
+Free Text:RPLL BAYS-GroundLayout\36:freetext
+Free Text:RPLL BAYS-GroundLayout\38:freetext
+Free Text:RPLL BAYS-GroundLayout\39:freetext
+Free Text:RPLL BAYS-GroundLayout\4:freetext
+Free Text:RPLL BAYS-GroundLayout\4:freetext
+Free Text:RPLL BAYS-GroundLayout\42:freetext
+Free Text:RPLL BAYS-GroundLayout\43:freetext
+Free Text:RPLL BAYS-GroundLayout\45:freetext
+Free Text:RPLL BAYS-GroundLayout\47:freetext
+Free Text:RPLL BAYS-GroundLayout\49:freetext
+Free Text:RPLL BAYS-GroundLayout\5:freetext
+Free Text:RPLL BAYS-GroundLayout\5:freetext
+Free Text:RPLL BAYS-GroundLayout\54:freetext
+Free Text:RPLL BAYS-GroundLayout\56:freetext
+Free Text:RPLL BAYS-GroundLayout\58:freetext
+Free Text:RPLL BAYS-GroundLayout\6:freetext
+Free Text:RPLL BAYS-GroundLayout\6:freetext
+Free Text:RPLL BAYS-GroundLayout\60:freetext
+Free Text:RPLL BAYS-GroundLayout\61:freetext
+Free Text:RPLL BAYS-GroundLayout\7:freetext
+Free Text:RPLL BAYS-GroundLayout\7:freetext
+Free Text:RPLL BAYS-GroundLayout\8:freetext
+Free Text:RPLL BAYS-GroundLayout\9:freetext
+Free Text:RPLL BAYS-GroundLayout\9:freetext
+Free Text:RPLL BAYS-GroundLayout\B1:freetext
+Free Text:RPLL BAYS-GroundLayout\B2:freetext
+Free Text:RPLL BAYS-GroundLayout\B3:freetext
+Free Text:RPLL BAYS-GroundLayout\B4:freetext
+Free Text:RPLL BAYS-GroundLayout\Balagbag Apron:freetext
+Free Text:RPLL BAYS-GroundLayout\C17:freetext
+Free Text:RPLL BAYS-GroundLayout\C18:freetext
+Free Text:RPLL BAYS-GroundLayout\C19:freetext
+Free Text:RPLL BAYS-GroundLayout\Cargo:freetext
+Free Text:RPLL BAYS-GroundLayout\Domestic Terminal:freetext
+Free Text:RPLL BAYS-GroundLayout\North General Aviation Area:freetext
+Free Text:RPLL BAYS-GroundLayout\Presidential Ramp:freetext
+Free Text:RPLL BAYS-GroundLayout\South General Aviation Area:freetext
+Free Text:RPLL BAYS-GroundLayout\Terminal 1:freetext
+Free Text:RPLL BAYS-GroundLayout\Terminal 2:freetext
+Free Text:RPLL BAYS-GroundLayout\Terminal 3:freetext
+Free Text:RPLL BAYS-GroundLayout\Villamor Ramp:freetext
+Free Text:RPLL RPT_PTS-GroundLayout\MA:freetext
+Free Text:RPLL RPT_PTS-GroundLayout\MU:freetext
+Free Text:RPLL RPT_PTS-GroundLayout\PN:freetext
+Free Text:RPLL RPT_PTS-GroundLayout\SH:freetext
+Free Text:RPLL RPT_PTS-GroundLayout\SM:freetext
+Free Text:RPLL RWY-GroundLayout\06:freetext
+Free Text:RPLL RWY-GroundLayout\13:freetext
+Free Text:RPLL RWY-GroundLayout\24:freetext
+Free Text:RPLL RWY-GroundLayout\31:freetext
+Free Text:RPLL START_PTS-GroundLayout\S1:freetext
+Free Text:RPLL START_PTS-GroundLayout\S10:freetext
+Free Text:RPLL START_PTS-GroundLayout\S11:freetext
+Free Text:RPLL START_PTS-GroundLayout\S12:freetext
+Free Text:RPLL START_PTS-GroundLayout\S12A:freetext
+Free Text:RPLL START_PTS-GroundLayout\S13:freetext
+Free Text:RPLL START_PTS-GroundLayout\S14:freetext
+Free Text:RPLL START_PTS-GroundLayout\S15:freetext
+Free Text:RPLL START_PTS-GroundLayout\S16:freetext
+Free Text:RPLL START_PTS-GroundLayout\S17:freetext
+Free Text:RPLL START_PTS-GroundLayout\S18:freetext
+Free Text:RPLL START_PTS-GroundLayout\S19:freetext
+Free Text:RPLL START_PTS-GroundLayout\S2:freetext
+Free Text:RPLL START_PTS-GroundLayout\S20:freetext
+Free Text:RPLL START_PTS-GroundLayout\S20A:freetext
+Free Text:RPLL START_PTS-GroundLayout\S20B:freetext
+Free Text:RPLL START_PTS-GroundLayout\S22:freetext
+Free Text:RPLL START_PTS-GroundLayout\S22A:freetext
+Free Text:RPLL START_PTS-GroundLayout\S23:freetext
+Free Text:RPLL START_PTS-GroundLayout\S24:freetext
+Free Text:RPLL START_PTS-GroundLayout\S25:freetext
+Free Text:RPLL START_PTS-GroundLayout\S26:freetext
+Free Text:RPLL START_PTS-GroundLayout\S27:freetext
+Free Text:RPLL START_PTS-GroundLayout\S3:freetext
+Free Text:RPLL START_PTS-GroundLayout\S3A:freetext
+Free Text:RPLL START_PTS-GroundLayout\S4:freetext
+Free Text:RPLL START_PTS-GroundLayout\S5:freetext
+Free Text:RPLL START_PTS-GroundLayout\S6:freetext
+Free Text:RPLL START_PTS-GroundLayout\S7:freetext
+Free Text:RPLL START_PTS-GroundLayout\S8:freetext
+Free Text:RPLL START_PTS-GroundLayout\S9:freetext
+Free Text:RPLL TWY-GroundLayout\C1:freetext
+Free Text:RPLL TWY-GroundLayout\C2:freetext
+Free Text:RPLL TWY-GroundLayout\C3:freetext
+Free Text:RPLL TWY-GroundLayout\C4:freetext
+Free Text:RPLL TWY-GroundLayout\C5:freetext
+Free Text:RPLL TWY-GroundLayout\C6:freetext
+Free Text:RPLL TWY-GroundLayout\D1:freetext
+Free Text:RPLL TWY-GroundLayout\D2:freetext
+Free Text:RPLL TWY-GroundLayout\D3:freetext
+Free Text:RPLL TWY-GroundLayout\D4:freetext
+Free Text:RPLL TWY-GroundLayout\D5:freetext
+Free Text:RPLL TWY-GroundLayout\E1:freetext
+Free Text:RPLL TWY-GroundLayout\E2:freetext
+Free Text:RPLL TWY-GroundLayout\E3:freetext
+Free Text:RPLL TWY-GroundLayout\E4:freetext
+Free Text:RPLL TWY-GroundLayout\E5:freetext
+Free Text:RPLL TWY-GroundLayout\F1:freetext
+Free Text:RPLL TWY-GroundLayout\F1B:freetext
+Free Text:RPLL TWY-GroundLayout\F2:freetext
+Free Text:RPLL TWY-GroundLayout\F3:freetext
+Free Text:RPLL TWY-GroundLayout\F4:freetext
+Free Text:RPLL TWY-GroundLayout\F5:freetext
+Free Text:RPLL TWY-GroundLayout\F5A:freetext
+Free Text:RPLL TWY-GroundLayout\FX:freetext
+Free Text:RPLL TWY-GroundLayout\FX:freetext
+Free Text:RPLL TWY-GroundLayout\G1:freetext
+Free Text:RPLL TWY-GroundLayout\G10:freetext
+Free Text:RPLL TWY-GroundLayout\G10:freetext
+Free Text:RPLL TWY-GroundLayout\G11:freetext
+Free Text:RPLL TWY-GroundLayout\G12:freetext
+Free Text:RPLL TWY-GroundLayout\G13:freetext
+Free Text:RPLL TWY-GroundLayout\G14:freetext
+Free Text:RPLL TWY-GroundLayout\G2:freetext
+Free Text:RPLL TWY-GroundLayout\G3:freetext
+Free Text:RPLL TWY-GroundLayout\G4:freetext
+Free Text:RPLL TWY-GroundLayout\G5:freetext
+Free Text:RPLL TWY-GroundLayout\G6:freetext
+Free Text:RPLL TWY-GroundLayout\G7:freetext
+Free Text:RPLL TWY-GroundLayout\G8E:freetext
+Free Text:RPLL TWY-GroundLayout\G8W:freetext
+Free Text:RPLL TWY-GroundLayout\G9:freetext
+Free Text:RPLL TWY-GroundLayout\GJ:freetext
+Free Text:RPLL TWY-GroundLayout\H1:freetext
+Free Text:RPLL TWY-GroundLayout\H1B:freetext
+Free Text:RPLL TWY-GroundLayout\H2:freetext
+Free Text:RPLL TWY-GroundLayout\H3:freetext
+Free Text:RPLL TWY-GroundLayout\H4:freetext
+Free Text:RPLL TWY-GroundLayout\H4B:freetext
+Free Text:RPLL TWY-GroundLayout\J:freetext
+Free Text:RPLL TWY-GroundLayout\K:freetext
+Free Text:RPLL TWY-GroundLayout\L:freetext
+Free Text:RPLL TWY-GroundLayout\L:freetext
+Free Text:RPLL TWY-GroundLayout\M1:freetext
+Free Text:RPLL TWY-GroundLayout\M2:freetext
+Free Text:RPLL TWY-GroundLayout\M3:freetext
+Free Text:RPLL TWY-GroundLayout\N1:freetext
+Free Text:RPLL TWY-GroundLayout\N2:freetext
+Free Text:RPLL TWY-GroundLayout\N3:freetext
+Free Text:RPLL TWY-GroundLayout\N4:freetext
+Free Text:RPLL TWY-GroundLayout\N5:freetext
+Free Text:RPLL TWY-GroundLayout\N6:freetext
+Free Text:RPLL TWY-GroundLayout\N7:freetext
+Free Text:RPLL TWY-GroundLayout\P:freetext
+Free Text:RPLL TWY-GroundLayout\R1:freetext
+Free Text:RPLL TWY-GroundLayout\R2:freetext
+Free Text:RPLL TWY-GroundLayout\R3:freetext
+Free Text:RPLL TWY-GroundLayout\R4:freetext
+Free Text:RPLL TWY-GroundLayout\R5:freetext
+Free Text:RPLL TWY-GroundLayout\R6:freetext
+Geo:RPLL Groundlayout:
+Regions:RPLL GroundLayout:polygon
+Runways:RPLL 06-24:centerline
+Runways:RPLL 06-24:extended centerline 1
+Runways:RPLL 06-24:extended centerline 1 left ticks
+Runways:RPLL 06-24:extended centerline 1 right ticks
+Runways:RPLL 06-24:extended centerline 2
+Runways:RPLL 06-24:extended centerline 2 left ticks
+Runways:RPLL 06-24:extended centerline 2 right ticks
+Runways:RPLL 06-24:name
+Runways:RPLL 13-31:centerline
+Runways:RPLL 13-31:extended centerline 1
+Runways:RPLL 13-31:extended centerline 1 left ticks
+Runways:RPLL 13-31:extended centerline 1 right ticks
+Runways:RPLL 13-31:name
+VORs:MIA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:100000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:AC
+WINDOWAREA:14.476930:120.928304:14.555662:121.083958
+PLUGIN:vSMR:ActiveProfile:VATPHIL vSMR
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:RPLL
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

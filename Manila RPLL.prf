@@ -1,0 +1,69 @@
+ASRFastKeys	1	\RPHI\ASR\A Luzon\RPLL_TWR.asr
+ASRFastKeys	2	\RPHI\ASR\A Luzon\RPLL_GND.asr
+Plugins	Plugin0	\RPHI\Plugins\AFVEuroscopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin1	\RPHI\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin2	\RPHI\Plugins\RDF\RDFPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin2Display1	SMR radar display
+Plugins	Plugin3	\RPHI\Plugins\VCH\VCH.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+Plugins	Plugin3Display1	SMR radar display
+Plugins	Plugin4	\RPHI\Plugins\vSMR\vSMR.dll
+Plugins	Plugin4Display0	SMR radar display
+RecentFiles	Recent1	\RPHI\ASR\A Luzon\RPLL_GND.asr
+Settings	AselKey	851968
+Settings	FreqKey	3604480
+Settings	Settingsfile	\RPHI\Settings\General.txt
+Settings	SettingsfileARR	\RPHI\Settings\Lists.txt
+Settings	SettingsfileCONFLICT	\RPHI\Settings\Lists.txt
+Settings	SettingsfileDEP	\RPHI\Settings\Lists.txt
+Settings	SettingsfileFP	\RPHI\Settings\Lists.txt
+Settings	SettingsfilePILOTING	\RPHI\Settings\Lists.txt
+Settings	SettingsfilePLUGINS	\RPHI\Settings\Plugins.txt
+Settings	SettingsfilePROFILE	\RPHI\Settings\Profiles.txt
+Settings	SettingsfileSCREEN	\RPHI\Settings\Screen.txt
+Settings	SettingsfileSEL	\RPHI\Settings\Lists.txt
+Settings	SettingsfileSIL	\RPHI\Settings\Lists.txt
+Settings	SettingsfileSYMBOLOGY	\RPHI\Settings\Symbology.txt
+Settings	SettingsfileTAGS	\RPHI\Settings\Tags.txt
+Settings	SettingsfileVCCS	\RPHI\Settings\VCCS.txt
+Settings	SettingsfileVOICE	\RPHI\Settings\VoiceChannels.txt
+Settings	aircraft	\RPHI\ICAO\ICAO_Aircraft.txt
+Settings	airlines	\RPHI\ICAO\ICAO_Airlines.txt
+Settings	airportcoords	\RPHI\NavData\icao.txt
+Settings	airports	\RPHI\ICAO\ICAO_Airports.txt
+Settings	airways	\RPHI\NavData\airway.txt
+Settings	alias	\RPHI\Alias\alias.txt
+Settings	sector	\RPHI-Release.sct
+Sounds	Sound0	\RPHI\Sounds\handoff_request.wav
+Sounds	Sound1	\RPHI\Sounds\handoff_accept.wav
+Sounds	Sound10	\RPHI\Sounds\disconnected.wav
+Sounds	Sound11	\RPHI\Sounds\ongoing_request.wav
+Sounds	Sound12	\RPHI\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\RPHI\Sounds\ongoing_refused.wav
+Sounds	Sound14	\RPHI\Sounds\ongoing_manual.wav
+Sounds	Sound15	\RPHI\Sounds\new_atis.wav
+Sounds	Sound16	\RPHI\Sounds\handoff_refused.wav
+Sounds	Sound17	\RPHI\Sounds\pointout.wav
+Sounds	Sound18	\RPHI\Sounds\startup.wav
+Sounds	Sound2	\RPHI\Sounds\conflict_alert.wav
+Sounds	Sound3	\RPHI\Sounds\radio_message.wav
+Sounds	Sound4	\RPHI\Sounds\private_message.wav
+Sounds	Sound5	\RPHI\Sounds\atc_message.wav
+Sounds	Sound6	\RPHI\Sounds\broadcast_message.wav
+Sounds	Sound7	\RPHI\Sounds\landline_request.wav
+Sounds	Sound8	\RPHI\Sounds\supervisor_message.wav
+Sounds	Sound9	\RPHI\Sounds\connected.wav
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	callsign	INITIALS_OBS
+LastSession	atis2	Manila Observer
+LastSession	atis3	Charts available at vats.im/rphicharts | Philippines vACC vatphil.com 
+RecentFiles	Recent2	\RPHI\ASR\A Luzon\RPLL_TWR.asr
+RecentFiles	Recent3	\RPHI\ASR\A Luzon\RPLL_TWR.asr
+LastSession	scenario	\RPHI\Sweatbox\RPLL\bin\RPLL_06.txt
